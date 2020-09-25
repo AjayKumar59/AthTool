@@ -21,13 +21,13 @@
 
 * `apt update`
 * `apt install git curl php openssh -y`
-* `git clone https://github.com/AjayKumar59/ath.git`
-* `cd ath`
-#### > Run : `bash ath.sh`
+* `git clone https://github.com/AjayKumar59/AthTool.git`
+* `cd AthTool`
+#### > Run : `bash AthTool.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl php openssh -y ; git clone git://github.com/htr-tech/zphisher.git ; cd zphisher ; bash zphisher.sh
+apt update ; apt install git curl php openssh -y ; git clone https://github.com/AjayKumar59/AthTool.git ; cd AthTool ; bash AthTool.sh
 ```
 <br>
 <p align="center">
