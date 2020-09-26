@@ -29,5 +29,5 @@ apt update ; apt install git curl php openssh -y ; git clone https://github.com/
 #### [+] 4 Port Forwarding Options !
 #### [+] Easy for Beginners !
 
-
+This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool. View this post , For more details visit 👇 
 
