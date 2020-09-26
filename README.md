@@ -15,8 +15,8 @@ apt update ; apt install git curl php openssh -y ; git clone https://github.com/
 ```
 <br>
 <p align="center">
-<img width="60%" src="https://1.bp.blogspot.com/-QdGViqHaXwg/X29wW9J9q-I/AAAAAAAAAcM/BdeLS9otZJ01KXHxgU_aZC2U_tUaxmt1ACLcBGAsYHQ/s1080/IMG_20200926_221442.jpg_175958.jpg"/>
-<img width="60%" src="https://1.bp.blogspot.com/-qk77gcGiXe4/X29wigzZ2KI/AAAAAAAAAcQ/2s_RBCxVXWcl4hqZEedb1fCEOeDhLXGGwCLcBGAsYHQ/s1229/IMG_20200926_221426.jpg"/>
+<img width="70%" src="https://1.bp.blogspot.com/-QdGViqHaXwg/X29wW9J9q-I/AAAAAAAAAcM/BdeLS9otZJ01KXHxgU_aZC2U_tUaxmt1ACLcBGAsYHQ/s1080/IMG_20200926_221442.jpg_175958.jpg"/>
+<img width="70%" src="https://1.bp.blogspot.com/-qk77gcGiXe4/X29wigzZ2KI/AAAAAAAAAcQ/2s_RBCxVXWcl4hqZEedb1fCEOeDhLXGGwCLcBGAsYHQ/s1229/IMG_20200926_221426.jpg"/>
 <img width="60%" scr="https://1.bp.blogspot.com/-WHNE4mDtbq0/X281iN432KI/AAAAAAAAAbg/-PusA4UKpUYTrwIeidpJj-A-R1SQAvCEgCLcBGAsYHQ/s1706/IMG_20200926_175916.jpg "/>
 </p>
 
