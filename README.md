@@ -15,8 +15,8 @@ apt update ; apt install git curl php openssh -y ; git clone https://github.com/
 ```
 <br>
 <p align="center">
-<img width="40%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/zphisher1.png"/>
-<img width="51%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/zphisher2.png"/>
+<img width="40%" src="https://1.bp.blogspot.com/-EhTk6v4Vt0g/X281TS4j8DI/AAAAAAAAAbQ/d6IlLJYDJ7M1yuw7EmRsSycSJYoPwLw4ACLcBGAsYHQ/s1080/IMG_20200926_175958.jpg"/>
+<img width="51%" src="https://1.bp.blogspot.com/-bT5-M7Qslns/X281YONQI_I/AAAAAAAAAbY/riflj3szDNUQRDSyyIcl0LHSOqC2JlnYwCLcBGAsYHQ/s1080/IMG_20200926_175944.jpg"/>
 </p>
 
 ### <<< If you copy , Then Give me The Credits >>>
