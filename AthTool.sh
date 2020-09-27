@@ -7,7 +7,7 @@ command -v unzip > /dev/null 2>&1 || { echo >&2 "Unzip is not installed ! Instal
 }
 banner() {
 clear
-printf " \e[33;1m                        |*_*_*_*_*_*|           |*|\e[0m\n"
+printf " \e[33;1m        _               |*_*_*_*_*_*|           |*|\e[0m\n"
 printf " \e[33;1m       /**\                  |*|                |*|\e[0m\n"
 printf " \e[33;1m      /*/\*\     |*||*|      |*|                |*|\e[0m\n"
 printf " \e[32;1m     /*/  \*\    |*||*|      |*|                |*|\e[0m\n"
