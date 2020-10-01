@@ -20,7 +20,10 @@ apt update ; apt install git curl php openssh -y ; git clone https://github.com/
 <img width="60%" scr="https://1.bp.blogspot.com/-WHNE4mDtbq0/X281iN432KI/AAAAAAAAAbg/-PusA4UKpUYTrwIeidpJj-A-R1SQAvCEgCLcBGAsYHQ/s1706/IMG_20200926_175916.jpg "/>
 </p>
 
-
+# [+] Hack Facebook 
+# [+] Hack Instagram
+# [+] Hack Gmail
+# Using This Way
 This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool.
 View this post , For more details visit 👇
 <a href="https://www.atechnicalhacker.tk/2020/09/how-to-hack-facebookinstagram-gmail.html" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="273" data-original-width="425" src="https://1.bp.blogspot.com/-Szfu6FqEP90/X2mIb5WqUjI/AAAAAAAAAaw/SW5nq1ATPW8k2gvcXfWVI6pWHlDBOC4kwCLcBGAsYHQ/s320/click-to-visit1.gif" width="320" /></a>
